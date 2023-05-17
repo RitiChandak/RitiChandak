@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RitiChandak
-- 🌱 I’m currently learning C C++ and Python
+- 🌱 I’m currently learning C C++ Java and Python
 - 📫 How to reach me ritichandak@gmail.com
 
 <!---
